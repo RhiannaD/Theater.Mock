@@ -1,0 +1,110 @@
+
+*{
+  padding:0;
+  margin:0;
+}
+
+ .feature{
+  width: 100%;
+
+  
+ }
+
+ 
+ .date{
+  padding-left: 50px;
+  width:800px;
+  height: 27px;
+  margin:80px 200% 2px 170px;
+  border-color: black;
+  border-radius: 2px;
+  background-color: rgb(248, 242, 242);
+  text-size-adjust: 15px;
+ }
+
+ .raisin{
+  float:left;
+  padding: 10px;
+  margin: 20px 2000px 800px 175px;
+  width: 190px;
+  height: 150px;
+  border-bottom: solid 1 px #000;
+ 
+  
+
+ }
+
+.box{
+  position: relative;
+  float:left;
+  margin-left: 400px;
+}
+ 
+main{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.new_date{
+  inline-size: 71%;
+  padding:4px;
+  padding-left:20px;
+  margin:80px 30px 40px 30px;
+  border: solid 1px rgb(209, 206, 206);
+  background-color: rgb(233, 227, 227);
+
+}
+
+.flexbox{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  width:700px;
+  
+}
+
+.new_raisin{
+  width:175px;
+}
+
+.new_box{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: -75px;
+  height: 150px;
+}
+
+.new_button{
+  width:80px;
+  height:35px;
+  background-color: rgb(255, 194, 81);
+  color: white;
+}
+
+.line{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 720px;
+}
+
+
+
+h2{
+  text-size-adjust: 8px;
+}
+
+.runtime{
+  padding: 4px;
+}
+
+.where{
+  padding: 4px;
+}
+
+.money{
+  padding:6px;
+}
+
+
