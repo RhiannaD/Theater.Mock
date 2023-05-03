@@ -4,11 +4,35 @@
   margin:0;
 }
 
+.navy{
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  padding: 0 15px 0 50px;
+ 
+}
+
+
+li {
+  display: inline-block;
+  font-size: 16px;
+  padding: 50px;
+}
+
  .feature{
   width: 100%;
 
   
  }
+
+.featured{
+    display:flex ;
+    flex-direction: column;
+    font-size: 150px;
+    margin: -400px 80px 250px 200px;
+    white-space: nowrap;
+    color:white;
+}
 
  
  .date{
